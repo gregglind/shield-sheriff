@@ -2,7 +2,7 @@
 
 A Badge, because you are the authority.
 
-[!sheriff](./badge.jpg)
+![sheriff](badge.jpg)
 
 - create browserAction (toolbar button) of "shield" that when pushed
 - opens new "themed" window
